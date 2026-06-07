@@ -1,3 +1,10 @@
-Generate 5 scroll-stopping hooks for Velvet Brews Café.
-Tone: casual, authentic, and attention-grabbing.
-Audience: students, families, and local coffee lovers.
+Prompt: Generate 5 catchy hooks for a café UGC advertisement.
+
+Brand: Velvet Brews Café
+
+Tone:
+* cozy
+* realistic
+* social‑media friendly
+* engaging
+
