@@ -1,0 +1,5 @@
+[UGC Reel Script]
+Hook: "This latte art is too pretty not to post!"
+Problem: "Your feed deserves more than boring coffee pics."
+Solution: "Velvet Brews Café makes every cup Insta-worthy."
+CTA: "Snap it, sip it, share it — #VelvetBrews"
