@@ -1,4 +1,23 @@
-Write a 20-second Instagram Reel script for Velvet Brews Café.
-Format: Hook → Problem → Solution → CTA.
-Tone: trendy, authentic, and shareable.
-Audience: students, families, and local coffee lovers in Pedatadepalli.
+Create a luxury café advertisement poster for Velvet Brews Café.
+
+Style:
+- premium café branding
+- aesthetic Instagram-style design
+- elegant and minimal
+- warm lighting
+- cozy luxury look
+
+Colors:
+- coffee brown
+- cream white
+- caramel gold
+- mocha beige
+- soft bronze accents
+
+Include:
+- latte art cup and croissant
+- glowing warm café ambiance
+- modern typography
+
+Tagline:
+“Comfort in Every Cup – Velvet Brews Café”
