@@ -1,1 +1,14 @@
-CTA: "Visit Velvet Brews Café today and taste comfort in every cup. Your cozy corner in Pedatadepalli is waiting!"
+CTA 1:  
+“Visit Velvet Brews Café today and savor comfort in every sip!”
+
+CTA 2:  
+“Your perfect coffee break starts here.”
+
+CTA 3:  
+“Stop by now and taste the Velvet Brews difference.”
+
+CTA 4:  
+“Cozy café vibes are just one step away.”
+
+CTA 5:  
+“Get your Velvet Brews Café flavor today!”
