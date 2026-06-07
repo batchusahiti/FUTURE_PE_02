@@ -1,0 +1,5 @@
+[UGC Shorts Script]
+Hook: "Ever walked into a café and instantly felt at home?"
+Problem: "Most cafés feel rushed or impersonal."
+Solution: "Velvet Brews Café is cozy, warm, and perfect for coffee lovers."
+CTA: "Drop by Pedatadepalli’s Velvet Brews Café today!"
