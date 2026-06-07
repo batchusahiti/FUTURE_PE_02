@@ -1,0 +1,4 @@
+Hook: "Looking for a café that feels like home?"
+Problem: "Most places just serve coffee, but miss the cozy vibe."
+Solution: "At Velvet Brews Café, every cup is freshly brewed, pastries are homemade, and the atmosphere makes you want to stay all day."
+CTA: "Bring your friends and family — Pedatadepalli’s favorite café is waiting!"
