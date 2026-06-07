@@ -1,5 +1,14 @@
-[UGC Reel Script]
-Hook: "This latte art is too pretty not to post!"
-Problem: "Your feed deserves more than boring coffee pics."
-Solution: "Velvet Brews Café makes every cup Insta-worthy."
-CTA: "Snap it, sip it, share it — #VelvetBrews"
+HOOK:  
+“My coffee has NEVER tasted this good before…” ☕✨
+
+SCRIPT:  
+I was struggling to find a café that actually felt cozy and served coffee worth savoring.
+
+Then I discovered Velvet Brews Café, and honestly, the brews completely changed my coffee routine.
+
+The drinks taste premium, the atmosphere feels warm and inviting, and every visit instantly makes me feel more relaxed.
+
+Now, enjoying my coffee break feels effortless, cozy, and comforting every day.
+
+CTA:  
+Try Velvet Brews Café today and upgrade your coffee break with comfort!
