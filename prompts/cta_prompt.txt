@@ -1,3 +1,20 @@
-Generate 3 strong call-to-action lines for Velvet Brews Café.
-Tone: persuasive, inviting, and action-oriented.
-Audience: students, families, and local coffee lovers in Pedatadepalli.
+Generate strong CTA lines for a café UGC advertisement.
+
+Brand: Velvet Brews Café
+
+Requirements:
+- short and engaging
+- social-media friendly
+- encourage customers to visit
+- suitable for Instagram Reels and YouTube Shorts
+
+Tone:
+- persuasive
+- inviting
+- action-oriented
+
+Audience:
+- students
+- families
+- local coffee lovers in Pedatadepalli
+
